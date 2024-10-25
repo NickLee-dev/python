@@ -130,19 +130,3 @@ def test7():
     # 키로 값 조회 : 사전변수[키] == get(key)
     # print('name : ', dict1['name'])   # error
     print('name : ', dict1.get('name'))   # None 리턴
-
-
-
-52852852852
-
-
-
-
-
-
-
-
-
-
-
-
