@@ -13,9 +13,16 @@ import test_dict.dict_sample as ts
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
+if __name__ == '__main__':  # 자바의 메인 함수의 역할
     # 임포트한 모듈 안의 함수 사용시 :
     # 임포트한 모듈명 그대로 사용 : 모듈명.함수명()
     # test_dict.dict_sample.test1() # 모듈명에 줄임말이 지정되면 정식 모듈명 사용 못 함
-    ts.test1()
+    # ts.test1()
+    # ts.test2()
+    # ts.test3()
+    # ts.test4()
+    # ts.test5()
+    # ts.test6()
+    ts.test7()
 
+# test
