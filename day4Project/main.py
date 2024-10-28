@@ -9,7 +9,8 @@
 # 모듈명이 길거나 복잡하거나 사용시 불편할 경우 줄임말을 지정할 수 있음
 # import 모듈명 as 줄임말
 import test_dict.dict_sample as ts
-
+import mission.dict_mission1 as m1
+import mission.dict_mission2 as m2  # as 활용 줄임말 변경(엘리어스)
 
 
 # Press the green button in the gutter to run the script.
@@ -23,6 +24,8 @@ if __name__ == '__main__':  # 자바의 메인 함수의 역할
     # ts.test4()
     # ts.test5()
     # ts.test6()
-    ts.test7()
-
+    # ts.test7()
+    # m1.dict_func()
+    # m2.dictfunc1()
+    m2.dictfunc2()
 # test
