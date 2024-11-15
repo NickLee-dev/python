@@ -1,0 +1,14 @@
+-- OpenCV 와 tesseract-ocr 이용해서 추출한 상호와 전화번호 저장용 테이블 스크립트
+-- vision\\dbscript\\table.sql
+
+DROP TABLE VISION CASCADE CONSTRAINTS;
+
+CREATE TABLE VISION (
+    NAME VARCHAR2(100) NOT NULL,
+    TEL VARCHAR2(25) NOT NULL
+);
+
+COMMENT ON COLUMN VISION.NAME IS '상호명';
+COMMENT ON COLUMN VISION.TEL IS '전화번호';
+
+COMMIT;

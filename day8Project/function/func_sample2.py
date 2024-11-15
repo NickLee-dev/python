@@ -111,12 +111,48 @@ def func_keyword_param():
     result= num_calc(c=8,b=9,a=10,e=6,d=7)
     print(f'result : {result}')
 
+# ------------------------------------------------------------------------------------------
+# 가변 매개변수 : 전달받을 값의 갯수를 정하지 않은 매개변수임
+# 함수 만들 때 매개변수명 앞에 * 표시함
+# def 함수명(매개변수, *매개변수, 매개변수=기본값):
+# 가변 매개변수는 전달값을 0개 ~ N개까지 받을 수 있음, 받을 값의 갯수가 정해져 있지 않음
+# 가변 매개변수의 자료형은 tuple 임
+
+def dynamic_param(*args):
+    '가변 매개변수가 받은 값들 확인하는 함수임'
+    print(f'args : {args}, type: {type(args)}')
+    for index in range(len(args)): # 군집자료형 길이를 통해 횟수지정
+        print(f'{index}번째 전달온 값 : {args[index]}')
+
+def func_dynamic_param():
+    '가변 매개변수를 가진 함수 실행 테스트용'
+    dynamic_param()
+    dynamic_param(10)
+    dynamic_param(20,30)
+    dynamic_param(4,3,2,23,45,6,8,7,11)
+
+# ------------------------------------------------------------------------------
+# 재귀함수(재귀적 호출 함수 : Recursive Call Function)
+# 함수 안에서 자신을 실행하는 함수 (반복문과 유사함)
+# 주의 : 무한 루프가 되지 않도록 종료 조건을 반드시 기술해야 함
+# 파이썬은 무한 루프에 빠지면 자동으로 일정 구간 반복 후 에러 발생시킴
+
+def fectorial(n):
+    print(n, " * ", end=' ')
+    if n == 0 :
+        return 1
+    else :
+        return n*fectorial(n-1)
+
+
 # 함수 실행
 if __name__ == '__main__':
     # func_param_args()
     # func_callByValue()
     # func_callByAddress()
     # func_default_params()
-    func_keyword_param()
+    # func_keyword_param()
+    # func_dynamic_param()
+    print("\n10! : ",fectorial(10))
 
 # 여러 데이터를 취급시 call by address를 활용
