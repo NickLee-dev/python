@@ -4,6 +4,7 @@
 import test_set.set_sample as ss
 import test_bool.operator_sample as tos
 import conditional.ifSample as ifs
+import conditional.ifMission1 as ifm1
 
 
 # Press the green button in the gutter to run the script.
@@ -23,5 +24,8 @@ if __name__ == '__main__':
     # ifs.checkPayment()
     # ifs.checkPayment2()
     # ifs.shortCondition()
-    ifs.shortCondition2()
+    # ifs.shortCondition2()
+    # ifm1.practice1()
+    # ifm1.practice2()
+    ifm1.practice3()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
