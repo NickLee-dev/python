@@ -1,0 +1,166 @@
+[Episode  20, Steps 19,566] Episode Reward:  -319.989, Policy Loss:  -9.944, Training Steps:    20 Elapsed Time: 00:00:05
+[Episode  40, Steps 38,263] Episode Reward:  -321.897, Policy Loss:  -9.402, Training Steps:    40 Elapsed Time: 00:00:10
+[Episode  60, Steps 57,802] Episode Reward:  -310.849, Policy Loss:  -8.053, Training Steps:    60 Elapsed Time: 00:00:15
+[Episode  80, Steps 75,899] Episode Reward:  -322.874, Policy Loss:  -8.243, Training Steps:    80 Elapsed Time: 00:00:20
+[Episode 100, Steps 92,721] Episode Reward:  -131.735, Policy Loss:   2.768, Training Steps:   100 Elapsed Time: 00:00:25
+[Validation Episode Reward: [-267.83863973 -268.01784971 -268.66854377]] Average: -268.175
+[Episode 120, Steps 111,232] Episode Reward:  -201.314, Policy Loss:  -0.696, Training Steps:   120 Elapsed Time: 00:00:30
+[Episode 140, Steps 128,559] Episode Reward:  -320.780, Policy Loss: -16.514, Training Steps:   140 Elapsed Time: 00:00:35
+[Episode 160, Steps 146,762] Episode Reward:  -157.197, Policy Loss:  -3.644, Training Steps:   160 Elapsed Time: 00:00:40
+[Episode 180, Steps 166,076] Episode Reward:  -316.601, Policy Loss: -18.764, Training Steps:   180 Elapsed Time: 00:00:47
+[Episode 200, Steps 184,857] Episode Reward:  -329.929, Policy Loss: -17.471, Training Steps:   200 Elapsed Time: 00:00:53
+[Validation Episode Reward: [-266.90419989 -352.09922452 -269.48109537]] Average: -296.162
+[Episode 220, Steps 202,697] Episode Reward:  -313.571, Policy Loss: -14.751, Training Steps:   220 Elapsed Time: 00:00:59
+[Episode 240, Steps 220,353] Episode Reward:  -310.862, Policy Loss: -13.736, Training Steps:   240 Elapsed Time: 00:01:05
+[Episode 260, Steps 237,818] Episode Reward:  -316.334, Policy Loss: -22.104, Training Steps:   260 Elapsed Time: 00:01:13
+[Episode 280, Steps 257,037] Episode Reward:    -8.872, Policy Loss:  -0.689, Training Steps:   280 Elapsed Time: 00:01:27
+[Episode 300, Steps 274,791] Episode Reward:  -132.454, Policy Loss:  -3.340, Training Steps:   300 Elapsed Time: 00:01:41
+[Validation Episode Reward: [  -7.80361637 -176.87678828   -7.53584235]] Average: -64.072
+[Episode 320, Steps 294,365] Episode Reward:  -309.720, Policy Loss: -17.546, Training Steps:   320 Elapsed Time: 00:02:02
+[Episode 340, Steps 311,639] Episode Reward:  -315.252, Policy Loss: -16.970, Training Steps:   340 Elapsed Time: 00:02:18
+[Episode 360, Steps 330,482] Episode Reward:  -317.450, Policy Loss: -12.452, Training Steps:   360 Elapsed Time: 00:02:34
+[Episode 380, Steps 347,921] Episode Reward:  -303.197, Policy Loss: -10.705, Training Steps:   380 Elapsed Time: 00:02:50
+[Episode 400, Steps 366,697] Episode Reward:  -312.370, Policy Loss: -16.865, Training Steps:   400 Elapsed Time: 00:03:08
+[Validation Episode Reward: [-4.78619004 -4.78242928 -4.78646434]] Average: -4.785
+[Episode 420, Steps 383,994] Episode Reward:  -164.795, Policy Loss:  -3.536, Training Steps:   420 Elapsed Time: 00:03:26
+[Episode 440, Steps 401,425] Episode Reward:  -311.737, Policy Loss:  -6.054, Training Steps:   440 Elapsed Time: 00:03:43
+[Episode 460, Steps 420,162] Episode Reward:  -317.268, Policy Loss: -15.582, Training Steps:   460 Elapsed Time: 00:03:56
+[Episode 480, Steps 436,831] Episode Reward:  -116.534, Policy Loss:   3.558, Training Steps:   480 Elapsed Time: 00:03:59
+[Episode 500, Steps 455,159] Episode Reward:  -304.543, Policy Loss: -19.917, Training Steps:   500 Elapsed Time: 00:04:03
+[Validation Episode Reward: [-0.86331432 -0.84819504 -0.96267192]] Average: -0.891
+[Episode 520, Steps 473,718] Episode Reward:  -294.649, Policy Loss: -11.946, Training Steps:   520 Elapsed Time: 00:04:07
+[Episode 540, Steps 491,638] Episode Reward:  -117.836, Policy Loss:   2.767, Training Steps:   540 Elapsed Time: 00:04:11
+[Episode 560, Steps 509,646] Episode Reward:  -186.584, Policy Loss:   2.828, Training Steps:   560 Elapsed Time: 00:04:14
+[Episode 580, Steps 527,377] Episode Reward:  -307.172, Policy Loss: -18.566, Training Steps:   580 Elapsed Time: 00:04:18
+[Episode 600, Steps 545,588] Episode Reward:  -304.642, Policy Loss: -13.195, Training Steps:   600 Elapsed Time: 00:04:22
+[Validation Episode Reward: [-1.47690226 -1.41601111 -1.47992037]] Average: -1.458
+[Episode 620, Steps 564,248] Episode Reward:  -302.096, Policy Loss:  -9.543, Training Steps:   620 Elapsed Time: 00:04:26
+[Episode 640, Steps 583,349] Episode Reward:  -293.520, Policy Loss: -16.160, Training Steps:   640 Elapsed Time: 00:04:30
+[Episode 660, Steps 602,399] Episode Reward:  -298.434, Policy Loss: -26.276, Training Steps:   660 Elapsed Time: 00:04:34
+[Episode 680, Steps 620,057] Episode Reward:  -110.080, Policy Loss:   3.006, Training Steps:   680 Elapsed Time: 00:04:38
+[Episode 700, Steps 638,047] Episode Reward:  -303.960, Policy Loss: -17.740, Training Steps:   700 Elapsed Time: 00:04:41
+[Validation Episode Reward: [-8.36333751 -4.32771289 -6.27835757]] Average: -6.323
+[Episode 720, Steps 655,700] Episode Reward:   -22.881, Policy Loss:   5.161, Training Steps:   720 Elapsed Time: 00:04:45
+[Episode 740, Steps 672,754] Episode Reward:  -294.803, Policy Loss: -19.176, Training Steps:   740 Elapsed Time: 00:04:49
+[Episode 760, Steps 691,295] Episode Reward:  -307.113, Policy Loss: -18.662, Training Steps:   760 Elapsed Time: 00:04:58
+[Episode 780, Steps 708,043] Episode Reward:  -169.668, Policy Loss:   0.552, Training Steps:   780 Elapsed Time: 00:05:13
+[Episode 800, Steps 726,411] Episode Reward:  -295.947, Policy Loss: -19.687, Training Steps:   800 Elapsed Time: 00:05:20
+[Validation Episode Reward: [-0.35883405 -0.34713191 -0.36253374]] Average: -0.356
+[Episode 820, Steps 744,020] Episode Reward:  -307.194, Policy Loss: -20.068, Training Steps:   820 Elapsed Time: 00:05:25
+[Episode 840, Steps 763,089] Episode Reward:  -295.722, Policy Loss: -21.350, Training Steps:   840 Elapsed Time: 00:05:29
+[Episode 860, Steps 781,001] Episode Reward:  -293.161, Policy Loss: -18.191, Training Steps:   860 Elapsed Time: 00:05:32
+[Episode 880, Steps 799,381] Episode Reward:  -291.832, Policy Loss: -20.124, Training Steps:   880 Elapsed Time: 00:05:36
+[Episode 900, Steps 818,059] Episode Reward:  -306.190, Policy Loss: -14.622, Training Steps:   900 Elapsed Time: 00:05:40
+[Validation Episode Reward: [-1.42905329 -1.442124   -1.49393318]] Average: -1.455
+[Episode 920, Steps 837,158] Episode Reward:  -297.726, Policy Loss: -19.442, Training Steps:   920 Elapsed Time: 00:05:44
+[Episode 940, Steps 853,541] Episode Reward:  -301.490, Policy Loss: -18.828, Training Steps:   940 Elapsed Time: 00:05:48
+[Episode 960, Steps 871,600] Episode Reward:  -292.946, Policy Loss: -21.744, Training Steps:   960 Elapsed Time: 00:05:51
+[Episode 980, Steps 888,261] Episode Reward:    -5.887, Policy Loss:   2.441, Training Steps:   980 Elapsed Time: 00:05:55
+[Episode 1,000, Steps 905,635] Episode Reward:  -186.396, Policy Loss:  -9.996, Training Steps: 1,000 Elapsed Time: 00:05:58
+[Validation Episode Reward: [-0.26993415 -0.3622082  -0.20177255]] Average: -0.278
+[Episode 1,020, Steps 923,891] Episode Reward:  -305.770, Policy Loss:  -7.211, Training Steps: 1,020 Elapsed Time: 00:06:03
+[Episode 1,040, Steps 941,632] Episode Reward:  -295.601, Policy Loss: -20.361, Training Steps: 1,040 Elapsed Time: 00:06:06
+[Episode 1,060, Steps 958,476] Episode Reward:  -295.186, Policy Loss: -26.586, Training Steps: 1,060 Elapsed Time: 00:06:10
+[Episode 1,080, Steps 976,534] Episode Reward:  -296.417, Policy Loss: -19.722, Training Steps: 1,080 Elapsed Time: 00:06:14
+[Episode 1,100, Steps 993,045] Episode Reward:  -292.204, Policy Loss: -21.490, Training Steps: 1,100 Elapsed Time: 00:06:17
+[Validation Episode Reward: [-1.45464672 -1.51187071 -1.42073004]] Average: -1.462
+[Episode 1,120, Steps 1,011,800] Episode Reward:  -295.873, Policy Loss: -20.505, Training Steps: 1,120 Elapsed Time: 00:06:21
+[Episode 1,140, Steps 1,029,736] Episode Reward:  -300.717, Policy Loss: -15.833, Training Steps: 1,140 Elapsed Time: 00:06:25
+[Episode 1,160, Steps 1,047,385] Episode Reward:   -55.508, Policy Loss:  -2.498, Training Steps: 1,160 Elapsed Time: 00:06:29
+[Episode 1,180, Steps 1,065,193] Episode Reward:  -303.483, Policy Loss: -14.058, Training Steps: 1,180 Elapsed Time: 00:06:44
+[Episode 1,200, Steps 1,083,516] Episode Reward:  -300.133, Policy Loss: -16.280, Training Steps: 1,200 Elapsed Time: 00:07:00
+[Validation Episode Reward: [-0.16615772 -0.19207043 -0.18391267]] Average: -0.181
+[Episode 1,220, Steps 1,102,066] Episode Reward:  -297.314, Policy Loss: -22.005, Training Steps: 1,220 Elapsed Time: 00:07:19
+[Episode 1,240, Steps 1,118,486] Episode Reward:   -51.166, Policy Loss:  -1.932, Training Steps: 1,240 Elapsed Time: 00:07:34
+[Episode 1,260, Steps 1,136,728] Episode Reward:  -110.322, Policy Loss:  -3.354, Training Steps: 1,260 Elapsed Time: 00:07:41
+[Episode 1,280, Steps 1,153,185] Episode Reward:   -73.145, Policy Loss:   0.431, Training Steps: 1,280 Elapsed Time: 00:07:45
+[Episode 1,300, Steps 1,170,409] Episode Reward:  -308.962, Policy Loss: -15.863, Training Steps: 1,300 Elapsed Time: 00:07:48
+[Validation Episode Reward: [-1.59245123 -1.63022089 -1.60099473]] Average: -1.608
+[Episode 1,320, Steps 1,188,004] Episode Reward:   -43.904, Policy Loss:  -5.131, Training Steps: 1,320 Elapsed Time: 00:07:52
+[Episode 1,340, Steps 1,206,630] Episode Reward:  -304.091, Policy Loss: -17.270, Training Steps: 1,340 Elapsed Time: 00:07:56
+[Episode 1,360, Steps 1,225,584] Episode Reward:  -180.059, Policy Loss:  -5.354, Training Steps: 1,360 Elapsed Time: 00:08:00
+[Episode 1,380, Steps 1,242,695] Episode Reward:  -290.933, Policy Loss: -20.683, Training Steps: 1,380 Elapsed Time: 00:08:04
+[Episode 1,400, Steps 1,261,602] Episode Reward:  -297.518, Policy Loss: -13.525, Training Steps: 1,400 Elapsed Time: 00:08:08
+[Validation Episode Reward: [-0.84468449 -0.84110537 -0.86728848]] Average: -0.851
+[Episode 1,420, Steps 1,279,995] Episode Reward:   -97.462, Policy Loss:  -1.563, Training Steps: 1,420 Elapsed Time: 00:08:12
+[Episode 1,440, Steps 1,297,485] Episode Reward:  -295.141, Policy Loss: -19.275, Training Steps: 1,440 Elapsed Time: 00:08:16
+[Episode 1,460, Steps 1,315,889] Episode Reward:  -299.418, Policy Loss: -19.435, Training Steps: 1,460 Elapsed Time: 00:08:20
+[Episode 1,480, Steps 1,334,564] Episode Reward:  -295.238, Policy Loss: -19.132, Training Steps: 1,480 Elapsed Time: 00:08:24
+[Episode 1,500, Steps 1,351,657] Episode Reward:  -297.630, Policy Loss: -18.961, Training Steps: 1,500 Elapsed Time: 00:08:28
+[Validation Episode Reward: [-0.23411921 -0.1920657  -0.21187122]] Average: -0.213
+[Episode 1,520, Steps 1,369,729] Episode Reward:  -299.084, Policy Loss: -15.289, Training Steps: 1,520 Elapsed Time: 00:08:32
+[Episode 1,540, Steps 1,386,818] Episode Reward:  -302.887, Policy Loss: -22.213, Training Steps: 1,540 Elapsed Time: 00:08:36
+[Episode 1,560, Steps 1,405,167] Episode Reward:  -295.129, Policy Loss: -11.782, Training Steps: 1,560 Elapsed Time: 00:08:39
+[Episode 1,580, Steps 1,422,748] Episode Reward:   -50.388, Policy Loss:   1.455, Training Steps: 1,580 Elapsed Time: 00:08:43
+[Episode 1,600, Steps 1,439,705] Episode Reward:  -298.373, Policy Loss: -21.405, Training Steps: 1,600 Elapsed Time: 00:08:47
+[Validation Episode Reward: [-2.57051114 -2.572664   -2.57050091]] Average: -2.571
+[Episode 1,620, Steps 1,458,885] Episode Reward:  -296.669, Policy Loss: -21.473, Training Steps: 1,620 Elapsed Time: 00:08:51
+[Episode 1,640, Steps 1,474,509] Episode Reward:  -100.577, Policy Loss:   2.106, Training Steps: 1,640 Elapsed Time: 00:08:55
+[Episode 1,660, Steps 1,493,165] Episode Reward:  -162.081, Policy Loss:  -6.626, Training Steps: 1,660 Elapsed Time: 00:08:58
+[Episode 1,680, Steps 1,510,430] Episode Reward:  -300.756, Policy Loss: -20.883, Training Steps: 1,680 Elapsed Time: 00:09:02
+[Episode 1,700, Steps 1,527,641] Episode Reward:   -25.629, Policy Loss:   0.092, Training Steps: 1,700 Elapsed Time: 00:09:06
+[Validation Episode Reward: [-0.155587   -0.15264839 -0.17130549]] Average: -0.160
+[Episode 1,720, Steps 1,543,657] Episode Reward:  -185.216, Policy Loss: -13.271, Training Steps: 1,720 Elapsed Time: 00:09:10
+[Episode 1,740, Steps 1,561,978] Episode Reward:  -301.668, Policy Loss: -17.496, Training Steps: 1,740 Elapsed Time: 00:09:14
+[Episode 1,760, Steps 1,578,971] Episode Reward:  -306.288, Policy Loss: -19.450, Training Steps: 1,760 Elapsed Time: 00:09:18
+[Episode 1,780, Steps 1,597,582] Episode Reward:  -292.648, Policy Loss: -21.556, Training Steps: 1,780 Elapsed Time: 00:09:22
+[Episode 1,800, Steps 1,616,369] Episode Reward:  -300.173, Policy Loss: -19.724, Training Steps: 1,800 Elapsed Time: 00:09:26
+[Validation Episode Reward: [-1.89774882 -1.91836826 -1.92843692]] Average: -1.915
+[Episode 1,820, Steps 1,633,615] Episode Reward:  -302.331, Policy Loss: -19.143, Training Steps: 1,820 Elapsed Time: 00:09:31
+[Episode 1,840, Steps 1,651,055] Episode Reward:  -292.913, Policy Loss: -21.579, Training Steps: 1,840 Elapsed Time: 00:09:35
+[Episode 1,860, Steps 1,668,673] Episode Reward:   -31.140, Policy Loss:  -2.452, Training Steps: 1,860 Elapsed Time: 00:09:40
+[Episode 1,880, Steps 1,684,646] Episode Reward:  -120.889, Policy Loss:   0.716, Training Steps: 1,880 Elapsed Time: 00:09:43
+[Episode 1,900, Steps 1,704,220] Episode Reward:   -95.048, Policy Loss:  -6.625, Training Steps: 1,900 Elapsed Time: 00:09:48
+[Validation Episode Reward: [-1.67526569 -1.69013836 -1.7063717 ]] Average: -1.691
+[Episode 1,920, Steps 1,721,281] Episode Reward:  -160.032, Policy Loss:  -4.909, Training Steps: 1,920 Elapsed Time: 00:09:52
+[Episode 1,940, Steps 1,740,061] Episode Reward:  -295.789, Policy Loss: -20.287, Training Steps: 1,940 Elapsed Time: 00:09:56
+[Episode 1,960, Steps 1,758,075] Episode Reward:  -290.379, Policy Loss: -19.076, Training Steps: 1,960 Elapsed Time: 00:10:00
+[Episode 1,980, Steps 1,776,607] Episode Reward:  -294.495, Policy Loss: -16.280, Training Steps: 1,980 Elapsed Time: 00:10:04
+[Episode 2,000, Steps 1,793,043] Episode Reward:   -37.120, Policy Loss:  -1.382, Training Steps: 2,000 Elapsed Time: 00:10:08
+[Validation Episode Reward: [-3.93196369 -3.90819557 -3.92245885]] Average: -3.921
+[Episode 2,020, Steps 1,811,885] Episode Reward:  -302.206, Policy Loss: -18.686, Training Steps: 2,020 Elapsed Time: 00:10:12
+[Episode 2,040, Steps 1,829,718] Episode Reward:  -295.763, Policy Loss: -19.759, Training Steps: 2,040 Elapsed Time: 00:10:17
+[Episode 2,060, Steps 1,848,410] Episode Reward:  -100.590, Policy Loss:  -2.086, Training Steps: 2,060 Elapsed Time: 00:10:21
+[Episode 2,080, Steps 1,867,489] Episode Reward:  -292.494, Policy Loss: -19.681, Training Steps: 2,080 Elapsed Time: 00:10:25
+[Episode 2,100, Steps 1,886,332] Episode Reward:  -136.553, Policy Loss:  -2.540, Training Steps: 2,100 Elapsed Time: 00:10:29
+[Validation Episode Reward: [-0.02981916 -0.05431357 -0.03122929]] Average: -0.038
+[Episode 2,120, Steps 1,904,904] Episode Reward:  -292.668, Policy Loss: -17.335, Training Steps: 2,120 Elapsed Time: 00:10:34
+[Episode 2,140, Steps 1,923,512] Episode Reward:  -296.203, Policy Loss: -20.691, Training Steps: 2,140 Elapsed Time: 00:10:39
+[Episode 2,160, Steps 1,941,360] Episode Reward:  -292.012, Policy Loss: -20.843, Training Steps: 2,160 Elapsed Time: 00:10:50
+[Episode 2,180, Steps 1,958,981] Episode Reward:  -291.277, Policy Loss: -10.477, Training Steps: 2,180 Elapsed Time: 00:10:53
+[Episode 2,200, Steps 1,976,496] Episode Reward:   -42.634, Policy Loss:   1.371, Training Steps: 2,200 Elapsed Time: 00:10:57
+[Validation Episode Reward: [-0.17692923 -0.1781283  -0.20162472]] Average: -0.186
+[Episode 2,220, Steps 1,992,703] Episode Reward:  -288.895, Policy Loss: -16.687, Training Steps: 2,220 Elapsed Time: 00:11:00
+[Episode 2,240, Steps 2,010,319] Episode Reward:  -115.025, Policy Loss:  -3.028, Training Steps: 2,240 Elapsed Time: 00:11:04
+[Episode 2,260, Steps 2,026,983] Episode Reward:  -294.742, Policy Loss: -20.657, Training Steps: 2,260 Elapsed Time: 00:11:08
+[Episode 2,280, Steps 2,044,209] Episode Reward:  -294.240, Policy Loss: -22.740, Training Steps: 2,280 Elapsed Time: 00:11:12
+[Episode 2,300, Steps 2,061,188] Episode Reward:  -162.635, Policy Loss:  -5.643, Training Steps: 2,300 Elapsed Time: 00:11:16
+[Validation Episode Reward: [-0.73865115 -0.77823204 -0.76447672]] Average: -0.760
+[Episode 2,320, Steps 2,079,333] Episode Reward:  -298.306, Policy Loss: -13.760, Training Steps: 2,320 Elapsed Time: 00:11:20
+[Episode 2,340, Steps 2,097,307] Episode Reward:   -64.277, Policy Loss:  -0.012, Training Steps: 2,340 Elapsed Time: 00:11:24
+[Episode 2,360, Steps 2,114,996] Episode Reward:  -288.976, Policy Loss: -14.863, Training Steps: 2,360 Elapsed Time: 00:11:28
+[Episode 2,380, Steps 2,133,195] Episode Reward:   -73.167, Policy Loss:  -0.702, Training Steps: 2,380 Elapsed Time: 00:11:32
+Traceback (most recent call last):
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 258, in <module>
+    main()
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 254, in main
+    reinforce.train_loop()
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 74, in train_loop
+    action = self.policy.get_action(observation)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\c_policy_and_value.py", line 56, in get_action
+    mu_v, std_v = self.forward(x)
+                  ^^^^^^^^^^^^^^^
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\c_policy_and_value.py", line 41, in forward
+    x = F.relu(self.fc2(x))
+               ^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\linear.py", line 124, in forward
+    def forward(self, input: Tensor) -> Tensor:
+
+KeyboardInterrupt
