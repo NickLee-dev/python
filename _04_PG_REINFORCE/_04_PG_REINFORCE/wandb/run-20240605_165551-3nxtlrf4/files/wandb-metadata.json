@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.0rc2",
+    "heartbeatAt": "2024-06-05T07:55:52.447764",
+    "startedAt": "2024-06-05T07:55:51.817744",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "E:\\ai_workspace\\_04_PG_REINFORCE\\d_reinforce_train.py",
+    "codePathLocal": "d_reinforce_train.py",
+    "codePath": "d_reinforce_train.py",
+    "host": "BOOK-LCCUUB9T5H",
+    "username": "user",
+    "executable": "E:\\ai_workspace\\_04_PG_REINFORCE\\.venv\\Scripts\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.5107383728027,
+            "used": 46.997352600097656
+        }
+    },
+    "memory": {
+        "total": 15.721595764160156
+    }
+}

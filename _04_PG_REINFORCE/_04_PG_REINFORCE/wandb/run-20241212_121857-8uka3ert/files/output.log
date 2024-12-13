@@ -1,0 +1,37 @@
+[Episode  20, Steps 18,884] Episode Reward:  -327.388, Policy Loss:  -9.675, Training Steps:    20 Elapsed Time: 00:00:03
+[Episode  40, Steps 38,768] Episode Reward:  -186.312, Policy Loss:  -0.412, Training Steps:    40 Elapsed Time: 00:00:08
+[Episode  60, Steps 58,748] Episode Reward:  -317.639, Policy Loss:  -9.424, Training Steps:    60 Elapsed Time: 00:00:12
+[Episode  80, Steps 78,728] Episode Reward:  -318.785, Policy Loss: -14.646, Training Steps:    80 Elapsed Time: 00:00:17
+[Episode 100, Steps 98,708] Episode Reward:  -318.369, Policy Loss: -13.612, Training Steps:   100 Elapsed Time: 00:00:22
+[Validation Episode Reward: [-48.7463602  -35.87753323 -41.97111826]] Average: -42.198
+[Episode 120, Steps 118,688] Episode Reward:  -322.659, Policy Loss: -10.136, Training Steps:   120 Elapsed Time: 00:00:27
+[Episode 140, Steps 138,668] Episode Reward:  -321.653, Policy Loss: -11.345, Training Steps:   140 Elapsed Time: 00:00:31
+[Episode 160, Steps 158,648] Episode Reward:  -318.395, Policy Loss: -13.027, Training Steps:   160 Elapsed Time: 00:00:36
+[Episode 180, Steps 178,192] Episode Reward:  -316.063, Policy Loss: -18.194, Training Steps:   180 Elapsed Time: 00:00:40
+[Episode 200, Steps 198,172] Episode Reward:  -309.949, Policy Loss: -12.184, Training Steps:   200 Elapsed Time: 00:00:44
+[Validation Episode Reward: [-15.99678079 -28.23001227 -56.97409344]] Average: -33.734
+[Episode 220, Steps 218,152] Episode Reward:  -312.631, Policy Loss: -11.962, Training Steps:   220 Elapsed Time: 00:00:49
+Traceback (most recent call last):
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 258, in <module>
+    main()
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 254, in main
+    reinforce.train_loop()
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\d_reinforce_train.py", line 74, in train_loop
+    action = self.policy.get_action(observation)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\c_policy_and_value.py", line 56, in get_action
+    mu_v, std_v = self.forward(x)
+                  ^^^^^^^^^^^^^^^
+  File "D:\python_workspace\_04_PG_REINFORCE\_04_PG_REINFORCE\c_policy_and_value.py", line 42, in forward
+    x = F.relu(self.fc3(x))
+               ^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ict01-13\anaconda3\envs\aienv1\Lib\site-packages\torch\nn\modules\linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

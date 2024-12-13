@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-03-31T11:19:14.171488",
+    "startedAt": "2024-03-31T11:19:11.657272",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\RL_workspace\\_03_DQN\\d_dqn_train.py",
+    "codePathLocal": "d_dqn_train.py",
+    "codePath": "d_dqn_train.py",
+    "host": "DESKTOP-VI3PD01",
+    "username": "msi",
+    "executable": "C:\\Users\\msi\\anaconda3\\envs\\home\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2301.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2301.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1862.3886680603027,
+            "used": 172.96947860717773
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 63.70848083496094
+    }
+}

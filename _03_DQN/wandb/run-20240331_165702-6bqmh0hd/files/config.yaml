@@ -1,0 +1,74 @@
+wandb_version: 1
+
+env_name:
+  desc: null
+  value: LunarLander-v2
+max_num_episodes:
+  desc: null
+  value: 1500
+batch_size:
+  desc: null
+  value: 32
+learning_rate:
+  desc: null
+  value: 0.0001
+gamma:
+  desc: null
+  value: 0.99
+steps_between_train:
+  desc: null
+  value: 1
+target_sync_step_interval:
+  desc: null
+  value: 500
+replay_buffer_size:
+  desc: null
+  value: 300000
+epsilon_start:
+  desc: null
+  value: 0.95
+epsilon_end:
+  desc: null
+  value: 0.01
+epsilon_final_scheduled_percent:
+  desc: null
+  value: 0.75
+print_episode_interval:
+  desc: null
+  value: 10
+train_num_episodes_before_next_test:
+  desc: null
+  value: 50
+validation_num_episodes:
+  desc: null
+  value: 3
+episode_reward_avg_solved:
+  desc: null
+  value: 200
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.19
+    cli_version: 0.16.5
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1711871822.0
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 2
+      - 13
+      - 16
+      - 23
+      4: 3.9.19
+      5: 0.16.5
+      8:
+      - 3
+      - 5
+      13: windows-amd64

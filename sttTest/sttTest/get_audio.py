@@ -11,14 +11,21 @@ def get_audio():
     r = sr.Recognizer() # 구글 음성인식 모듈 클래스의 인스턴스(객체) 생성
     with sr.Microphone() as source: # 구글 음성인식 모듈 중 음성입력을 마크로 받음
         print("Say something!")
-        audio = r.listen(source) # 구글의 음석인식모듈이 리슨하고 있다가 음성 입력을 받아서 변수에 저장
+        # 1초간 소음 측정하여 정확한 음성인식
+        r.adjust_for_ambient_noise(source, duration=1)
+        r.pause_threshold = 1.5  # 덜 민감하게 반응 (긴 일시정지도 음성으로 간주)
+        # timeout: 대기 시간, phrase_time_limit: 음성을 입력받는 최대 시간
+        audio = r.listen(source, timeout=10, phrase_time_limit=15)  # 시간을 늘림
+        # audio = r.listen(source) # 구글의 음석인식모듈이 리슨하고 있다가 음성 입력을 받아서 변수에 저장
         said = " "
 
         try:
-            said =r.recognize_google(audio, language='ko-KR') # 음성이 한국어임을 인식하고 said 변수에 저장
+            said = r.recognize_google(audio, language='ko-KR') # 음성이 한국어임을 인식하고 said 변수에 저장
             print("Your speech thinks like : ", said) # 음성이 무엇인지 출력
         except Exception as e:
-            print("Exception : "+str(e))
+            said = "음성이 잘 인식되지 않았습니다. 다시 말씀해 주세요."
+            print("Your speech thinks like : ", said)  # 음성이 무엇인지 출력
+            # print("Exception : "+str(e))
 
     return said
 

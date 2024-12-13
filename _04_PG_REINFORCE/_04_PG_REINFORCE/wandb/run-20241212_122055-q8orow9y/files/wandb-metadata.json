@@ -1,0 +1,32 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.11",
+  "startedAt": "2024-12-12T03:20:55.669289Z",
+  "program": "D:\\python_workspace\\_04_PG_REINFORCE\\_04_PG_REINFORCE\\d_reinforce_train.py",
+  "codePath": "_04_PG_REINFORCE\\_04_PG_REINFORCE\\d_reinforce_train.py",
+  "git": {
+    "remote": "https://github.com/NickLee-dev/python.git",
+    "commit": "c011d490aef75a4126c65da18cb4264efa590eb9"
+  },
+  "email": "tkdan6750@gmail.com",
+  "root": "D:\\python_workspace\\_04_PG_REINFORCE\\_04_PG_REINFORCE",
+  "host": "DESKTOP-99KM6R6",
+  "username": "ict01-13",
+  "executable": "C:\\Users\\ict01-13\\anaconda3\\envs\\aienv1\\python.exe",
+  "codePathLocal": "d_reinforce_train.py",
+  "cpu_count": 16,
+  "cpu_count_logical": 24,
+  "disk": {
+    "/": {
+      "total": "1000068870144",
+      "used": "17091633152"
+    }
+  },
+  "memory": {
+    "total": "33970151424"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 24
+  }
+}
